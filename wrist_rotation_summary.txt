@@ -1,0 +1,12 @@
+Wrist Rotation Summary
+=====================
+Date: 2025-03-04 01:59:33
+Duration: 50.5 seconds
+
+Right Wrist:
+  Clockwise Rotations: 18
+  Anticlockwise Rotations: 26
+
+Left Wrist:
+  Clockwise Rotations: 11
+  Anticlockwise Rotations: 13
