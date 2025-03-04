@@ -4,7 +4,7 @@ import tensorflow as tf
 import tensorflow_hub as hub
 
 # Load MoveNet model
-model = hub.load("https://tfhub.dev/google/movenet/singlepose/lightning/4")
+model = hub.load("https://www.kaggle.com/models/google/movenet/TensorFlow2/singlepose-lightning/4")
 movenet = model.signatures['serving_default']
 
 # Function to detect keypoints
