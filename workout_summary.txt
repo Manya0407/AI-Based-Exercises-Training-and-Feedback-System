@@ -1,0 +1,7 @@
+
+Workout Summary:
+Duration: 149.3 seconds
+Right Arm Curls: 4 reps
+Left Arm Curls: 6 reps
+Right Arm Feedback: Ready for curl
+Left Arm Feedback: Control your arm
