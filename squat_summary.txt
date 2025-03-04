@@ -1,0 +1,16 @@
+Squat Session Summary
+====================
+
+Date: 2025-03-04 02:31:56
+Duration: 62.6 seconds (1:02)
+Total Squats: 0
+Average Quality Score: 0.0/100
+Average Rep Time: 0.0 seconds
+
+Rep-by-Rep Analysis:
+-------------------
+
+Detailed Technique Analysis:
+---------------------------
+Recommendations:
+---------------

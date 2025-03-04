@@ -1,1 +1,1 @@
-# AI-Sports-Based-Training-and-Feedback-System
+# AI-Based-Sports-Training-and-Feedback-System
