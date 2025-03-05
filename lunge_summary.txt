@@ -1,0 +1,841 @@
+Lunge Workout Summary (left leg)
+Duration: 102.7 seconds
+Total Lunges: 5 reps
+
+Detailed Rep Analysis:
+Rep 0: Knee Angle 172.7° | Ankle Distance 2.2px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 0: Knee Angle 172.7° | Ankle Distance 2.2px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 0: Knee Angle 172.7° | Ankle Distance 2.2px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 0: Knee Angle 178.0° | Ankle Distance 27.2px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 0: Knee Angle 178.0° | Ankle Distance 27.2px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 0: Knee Angle 178.3° | Ankle Distance 37.7px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 0: Knee Angle 177.6° | Ankle Distance 44.0px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 0: Knee Angle 177.6° | Ankle Distance 45.1px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 0: Knee Angle 177.6° | Ankle Distance 45.1px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 0: Knee Angle 177.6° | Ankle Distance 45.1px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 0: Knee Angle 177.4° | Ankle Distance 51.0px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 0: Knee Angle 13.8° | Ankle Distance 38.0px
+Feedback: Good lunge position
+Rep 0: Knee Angle 41.6° | Ankle Distance 17.1px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 41.6° | Ankle Distance 17.1px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 41.6° | Ankle Distance 17.1px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 41.6° | Ankle Distance 17.1px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 39.7° | Ankle Distance 18.2px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 38.4° | Ankle Distance 25.0px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 38.4° | Ankle Distance 25.0px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 38.4° | Ankle Distance 25.0px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 38.4° | Ankle Distance 25.0px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 31.2° | Ankle Distance 3.0px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 41.2° | Ankle Distance 10.0px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 41.2° | Ankle Distance 10.0px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 39.0° | Ankle Distance 33.1px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 35.8° | Ankle Distance 22.1px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 35.8° | Ankle Distance 22.1px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 37.8° | Ankle Distance 24.0px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 37.8° | Ankle Distance 24.0px
+Feedback: Bend your front knee less | Widen your stance
+Rep 1: Knee Angle 179.0° | Ankle Distance 107.8px
+Feedback: Lunge completed! Total: 1
+Rep 1: Knee Angle 179.0° | Ankle Distance 107.8px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 179.0° | Ankle Distance 107.8px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 179.0° | Ankle Distance 101.0px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 143.7° | Ankle Distance 85.0px
+Feedback: Good knee angle | Widen your stance
+Rep 1: Knee Angle 143.7° | Ankle Distance 85.0px
+Feedback: Good knee angle | Widen your stance
+Rep 1: Knee Angle 143.7° | Ankle Distance 85.0px
+Feedback: Good knee angle | Widen your stance
+Rep 1: Knee Angle 150.4° | Ankle Distance 94.0px
+Feedback: Good knee angle | Widen your stance
+Rep 1: Knee Angle 150.4° | Ankle Distance 94.0px
+Feedback: Good knee angle | Widen your stance
+Rep 1: Knee Angle 178.8° | Ankle Distance 131.0px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 178.8° | Ankle Distance 131.0px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 178.8° | Ankle Distance 131.0px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 177.2° | Ankle Distance 143.0px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 166.0° | Ankle Distance 133.0px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 166.0° | Ankle Distance 133.0px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 166.0° | Ankle Distance 133.0px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 162.9° | Ankle Distance 141.0px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 152.8° | Ankle Distance 167.0px
+Feedback: Good knee angle
+Rep 1: Knee Angle 152.8° | Ankle Distance 167.0px
+Feedback: Good knee angle
+Rep 1: Knee Angle 152.8° | Ankle Distance 167.0px
+Feedback: Good knee angle
+Rep 1: Knee Angle 162.8° | Ankle Distance 188.3px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 162.8° | Ankle Distance 188.3px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 163.9° | Ankle Distance 204.0px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 163.9° | Ankle Distance 204.0px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 163.9° | Ankle Distance 204.0px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 171.0° | Ankle Distance 212.1px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 158.6° | Ankle Distance 231.5px
+Feedback: Good knee angle
+Rep 1: Knee Angle 158.6° | Ankle Distance 231.5px
+Feedback: Good knee angle
+Rep 1: Knee Angle 158.6° | Ankle Distance 231.5px
+Feedback: Good knee angle
+Rep 1: Knee Angle 159.9° | Ankle Distance 231.1px
+Feedback: Good knee angle
+Rep 1: Knee Angle 159.9° | Ankle Distance 231.1px
+Feedback: Good knee angle
+Rep 1: Knee Angle 161.7° | Ankle Distance 222.1px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 161.7° | Ankle Distance 222.1px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 161.7° | Ankle Distance 222.1px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 156.2° | Ankle Distance 238.0px
+Feedback: Good knee angle
+Rep 1: Knee Angle 150.6° | Ankle Distance 242.1px
+Feedback: Good knee angle
+Rep 1: Knee Angle 150.6° | Ankle Distance 242.1px
+Feedback: Good knee angle
+Rep 1: Knee Angle 150.6° | Ankle Distance 242.1px
+Feedback: Good knee angle
+Rep 1: Knee Angle 139.3° | Ankle Distance 234.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 139.3° | Ankle Distance 234.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 146.1° | Ankle Distance 226.3px
+Feedback: Good knee angle
+Rep 1: Knee Angle 157.7° | Ankle Distance 227.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 157.7° | Ankle Distance 227.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 157.7° | Ankle Distance 227.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 157.7° | Ankle Distance 227.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 149.8° | Ankle Distance 217.7px
+Feedback: Good knee angle
+Rep 1: Knee Angle 149.8° | Ankle Distance 217.7px
+Feedback: Good knee angle
+Rep 1: Knee Angle 149.8° | Ankle Distance 217.7px
+Feedback: Good knee angle
+Rep 1: Knee Angle 127.5° | Ankle Distance 191.8px
+Feedback: Good knee angle
+Rep 1: Knee Angle 127.5° | Ankle Distance 191.8px
+Feedback: Good knee angle
+Rep 1: Knee Angle 127.5° | Ankle Distance 191.8px
+Feedback: Good knee angle
+Rep 1: Knee Angle 127.5° | Ankle Distance 191.8px
+Feedback: Good knee angle
+Rep 1: Knee Angle 125.5° | Ankle Distance 190.2px
+Feedback: Good knee angle
+Rep 1: Knee Angle 139.2° | Ankle Distance 229.5px
+Feedback: Good knee angle
+Rep 1: Knee Angle 139.2° | Ankle Distance 229.5px
+Feedback: Good knee angle
+Rep 1: Knee Angle 139.2° | Ankle Distance 229.5px
+Feedback: Good knee angle
+Rep 1: Knee Angle 116.6° | Ankle Distance 239.8px
+Feedback: Good lunge position
+Rep 1: Knee Angle 91.4° | Ankle Distance 229.7px
+Feedback: Good knee angle
+Rep 1: Knee Angle 91.4° | Ankle Distance 229.7px
+Feedback: Good knee angle
+Rep 1: Knee Angle 91.4° | Ankle Distance 229.7px
+Feedback: Good knee angle
+Rep 1: Knee Angle 117.9° | Ankle Distance 255.4px
+Feedback: Good knee angle
+Rep 1: Knee Angle 105.9° | Ankle Distance 258.3px
+Feedback: Good knee angle
+Rep 1: Knee Angle 105.9° | Ankle Distance 258.3px
+Feedback: Good knee angle
+Rep 1: Knee Angle 105.9° | Ankle Distance 258.3px
+Feedback: Good knee angle
+Rep 1: Knee Angle 95.4° | Ankle Distance 256.2px
+Feedback: Good knee angle
+Rep 1: Knee Angle 84.9° | Ankle Distance 260.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 84.9° | Ankle Distance 260.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 84.9° | Ankle Distance 260.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 112.4° | Ankle Distance 247.2px
+Feedback: Good knee angle
+Rep 1: Knee Angle 125.8° | Ankle Distance 254.2px
+Feedback: Good knee angle
+Rep 1: Knee Angle 125.8° | Ankle Distance 254.2px
+Feedback: Good knee angle
+Rep 1: Knee Angle 125.8° | Ankle Distance 254.2px
+Feedback: Good knee angle
+Rep 1: Knee Angle 136.3° | Ankle Distance 249.4px
+Feedback: Good knee angle
+Rep 1: Knee Angle 136.3° | Ankle Distance 249.4px
+Feedback: Good knee angle
+Rep 2: Knee Angle 150.4° | Ankle Distance 240.4px
+Feedback: Lunge completed! Total: 2
+Rep 2: Knee Angle 150.4° | Ankle Distance 240.4px
+Feedback: Good knee angle
+Rep 2: Knee Angle 150.4° | Ankle Distance 240.4px
+Feedback: Good knee angle
+Rep 2: Knee Angle 159.9° | Ankle Distance 225.3px
+Feedback: Good knee angle
+Rep 2: Knee Angle 140.6° | Ankle Distance 244.4px
+Feedback: Good knee angle
+Rep 2: Knee Angle 140.6° | Ankle Distance 244.4px
+Feedback: Good knee angle
+Rep 2: Knee Angle 140.6° | Ankle Distance 244.4px
+Feedback: Good knee angle
+Rep 2: Knee Angle 137.2° | Ankle Distance 257.8px
+Feedback: Good knee angle
+Rep 2: Knee Angle 137.2° | Ankle Distance 257.8px
+Feedback: Good knee angle
+Rep 2: Knee Angle 105.1° | Ankle Distance 238.8px
+Feedback: Good lunge position
+Rep 2: Knee Angle 106.6° | Ankle Distance 254.0px
+Feedback: Good knee angle
+Rep 2: Knee Angle 106.6° | Ankle Distance 254.0px
+Feedback: Good knee angle
+Rep 2: Knee Angle 106.6° | Ankle Distance 254.0px
+Feedback: Good knee angle
+Rep 2: Knee Angle 99.6° | Ankle Distance 304.1px
+Feedback: Good knee angle | Bring legs closer together
+Rep 2: Knee Angle 99.6° | Ankle Distance 304.1px
+Feedback: Good knee angle | Bring legs closer together
+Rep 2: Knee Angle 99.6° | Ankle Distance 304.1px
+Feedback: Good knee angle | Bring legs closer together
+Rep 2: Knee Angle 105.3° | Ankle Distance 311.1px
+Feedback: Good knee angle | Bring legs closer together
+Rep 2: Knee Angle 105.3° | Ankle Distance 311.1px
+Feedback: Good knee angle | Bring legs closer together
+Rep 2: Knee Angle 107.2° | Ankle Distance 303.0px
+Feedback: Good knee angle | Bring legs closer together
+Rep 2: Knee Angle 107.2° | Ankle Distance 303.0px
+Feedback: Good knee angle | Bring legs closer together
+Rep 2: Knee Angle 107.2° | Ankle Distance 303.0px
+Feedback: Good knee angle | Bring legs closer together
+Rep 2: Knee Angle 101.7° | Ankle Distance 293.6px
+Feedback: Good knee angle
+Rep 2: Knee Angle 114.8° | Ankle Distance 261.2px
+Feedback: Good knee angle
+Rep 2: Knee Angle 114.8° | Ankle Distance 261.2px
+Feedback: Good knee angle
+Rep 2: Knee Angle 114.8° | Ankle Distance 261.2px
+Feedback: Good knee angle
+Rep 2: Knee Angle 117.4° | Ankle Distance 252.2px
+Feedback: Good knee angle
+Rep 2: Knee Angle 117.4° | Ankle Distance 252.2px
+Feedback: Good knee angle
+Rep 2: Knee Angle 115.9° | Ankle Distance 247.6px
+Feedback: Good knee angle
+Rep 2: Knee Angle 115.9° | Ankle Distance 247.6px
+Feedback: Good knee angle
+Rep 2: Knee Angle 115.9° | Ankle Distance 247.6px
+Feedback: Good knee angle
+Rep 2: Knee Angle 134.8° | Ankle Distance 247.3px
+Feedback: Good knee angle
+Rep 3: Knee Angle 152.8° | Ankle Distance 237.1px
+Feedback: Lunge completed! Total: 3
+Rep 3: Knee Angle 152.8° | Ankle Distance 237.1px
+Feedback: Good knee angle
+Rep 3: Knee Angle 152.8° | Ankle Distance 237.1px
+Feedback: Good knee angle
+Rep 3: Knee Angle 155.6° | Ankle Distance 219.1px
+Feedback: Good knee angle
+Rep 3: Knee Angle 155.6° | Ankle Distance 219.1px
+Feedback: Good knee angle
+Rep 3: Knee Angle 137.9° | Ankle Distance 243.4px
+Feedback: Good knee angle
+Rep 3: Knee Angle 98.1° | Ankle Distance 232.9px
+Feedback: Good lunge position
+Rep 3: Knee Angle 98.1° | Ankle Distance 232.9px
+Feedback: Good knee angle
+Rep 3: Knee Angle 98.1° | Ankle Distance 232.9px
+Feedback: Good knee angle
+Rep 3: Knee Angle 95.0° | Ankle Distance 296.4px
+Feedback: Good knee angle
+Rep 3: Knee Angle 95.0° | Ankle Distance 296.4px
+Feedback: Good knee angle
+Rep 3: Knee Angle 95.0° | Ankle Distance 296.4px
+Feedback: Good knee angle
+Rep 3: Knee Angle 95.0° | Ankle Distance 277.0px
+Feedback: Good knee angle
+Rep 3: Knee Angle 95.0° | Ankle Distance 277.0px
+Feedback: Good knee angle
+Rep 3: Knee Angle 97.8° | Ankle Distance 288.2px
+Feedback: Good knee angle
+Rep 3: Knee Angle 97.8° | Ankle Distance 288.2px
+Feedback: Good knee angle
+Rep 3: Knee Angle 97.8° | Ankle Distance 288.2px
+Feedback: Good knee angle
+Rep 3: Knee Angle 94.4° | Ankle Distance 290.2px
+Feedback: Good knee angle
+Rep 3: Knee Angle 94.4° | Ankle Distance 290.2px
+Feedback: Good knee angle
+Rep 3: Knee Angle 94.4° | Ankle Distance 290.2px
+Feedback: Good knee angle
+Rep 3: Knee Angle 89.4° | Ankle Distance 269.2px
+Feedback: Good knee angle
+Rep 3: Knee Angle 89.4° | Ankle Distance 269.2px
+Feedback: Good knee angle
+Rep 3: Knee Angle 89.4° | Ankle Distance 269.2px
+Feedback: Good knee angle
+Rep 3: Knee Angle 123.5° | Ankle Distance 243.1px
+Feedback: Good knee angle
+Rep 3: Knee Angle 123.5° | Ankle Distance 243.1px
+Feedback: Good knee angle
+Rep 3: Knee Angle 123.5° | Ankle Distance 243.1px
+Feedback: Good knee angle
+Rep 4: Knee Angle 153.4° | Ankle Distance 227.2px
+Feedback: Lunge completed! Total: 4
+Rep 4: Knee Angle 153.4° | Ankle Distance 227.2px
+Feedback: Good knee angle
+Rep 4: Knee Angle 153.4° | Ankle Distance 227.2px
+Feedback: Good knee angle
+Rep 4: Knee Angle 153.4° | Ankle Distance 227.2px
+Feedback: Good knee angle
+Rep 4: Knee Angle 157.3° | Ankle Distance 205.4px
+Feedback: Good knee angle
+Rep 4: Knee Angle 142.8° | Ankle Distance 195.0px
+Feedback: Good knee angle
+Rep 4: Knee Angle 142.8° | Ankle Distance 195.0px
+Feedback: Good knee angle
+Rep 4: Knee Angle 142.8° | Ankle Distance 195.0px
+Feedback: Good knee angle
+Rep 4: Knee Angle 142.8° | Ankle Distance 195.0px
+Feedback: Good knee angle
+Rep 4: Knee Angle 172.7° | Ankle Distance 10.4px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 4: Knee Angle 176.4° | Ankle Distance 8.1px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 4: Knee Angle 176.4° | Ankle Distance 8.1px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 4: Knee Angle 176.4° | Ankle Distance 8.1px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 4: Knee Angle 176.4° | Ankle Distance 8.1px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 4: Knee Angle 175.1° | Ankle Distance 13.6px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 4: Knee Angle 145.3° | Ankle Distance 9.0px
+Feedback: Good knee angle | Widen your stance
+Rep 4: Knee Angle 145.3° | Ankle Distance 9.0px
+Feedback: Good knee angle | Widen your stance
+Rep 4: Knee Angle 145.3° | Ankle Distance 9.0px
+Feedback: Good knee angle | Widen your stance
+Rep 4: Knee Angle 176.8° | Ankle Distance 203.2px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 176.8° | Ankle Distance 203.2px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 180.0° | Ankle Distance 208.8px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 180.0° | Ankle Distance 208.8px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 180.0° | Ankle Distance 208.8px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 180.0° | Ankle Distance 208.8px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 178.2° | Ankle Distance 203.8px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 177.3° | Ankle Distance 173.7px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 177.3° | Ankle Distance 173.7px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 177.3° | Ankle Distance 173.7px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 174.9° | Ankle Distance 175.1px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 173.2° | Ankle Distance 183.0px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 173.2° | Ankle Distance 183.0px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 173.2° | Ankle Distance 183.0px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 172.4° | Ankle Distance 181.1px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 171.7° | Ankle Distance 170.3px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 171.7° | Ankle Distance 170.3px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 171.7° | Ankle Distance 170.3px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 162.0° | Ankle Distance 50.0px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 4: Knee Angle 162.0° | Ankle Distance 50.0px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 4: Knee Angle 156.4° | Ankle Distance 72.0px
+Feedback: Good knee angle | Widen your stance
+Rep 4: Knee Angle 153.5° | Ankle Distance 77.6px
+Feedback: Good knee angle | Widen your stance
+Rep 4: Knee Angle 153.5° | Ankle Distance 77.6px
+Feedback: Good knee angle | Widen your stance
+Rep 0: Knee Angle 4.3° | Ankle Distance 54.1px
+Feedback: Good lunge position
+Rep 0: Knee Angle 4.3° | Ankle Distance 54.1px
+Feedback: Bend your front knee less | Widen your stance
+Rep 0: Knee Angle 4.3° | Ankle Distance 54.1px
+Feedback: Bend your front knee less | Widen your stance
+Rep 1: Knee Angle 152.6° | Ankle Distance 26.4px
+Feedback: Lunge completed! Total: 1
+Rep 1: Knee Angle 161.6° | Ankle Distance 41.3px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 1: Knee Angle 161.6° | Ankle Distance 41.3px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 1: Knee Angle 161.6° | Ankle Distance 41.3px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 1: Knee Angle 161.8° | Ankle Distance 51.0px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 1: Knee Angle 161.8° | Ankle Distance 51.0px
+Feedback: Straighten your back leg more | Widen your stance
+Rep 1: Knee Angle 154.4° | Ankle Distance 88.9px
+Feedback: Good knee angle | Widen your stance
+Rep 1: Knee Angle 154.4° | Ankle Distance 88.9px
+Feedback: Good knee angle | Widen your stance
+Rep 1: Knee Angle 154.4° | Ankle Distance 88.9px
+Feedback: Good knee angle | Widen your stance
+Rep 1: Knee Angle 174.9° | Ankle Distance 118.4px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 174.9° | Ankle Distance 118.4px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 174.9° | Ankle Distance 118.4px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 158.0° | Ankle Distance 120.2px
+Feedback: Good knee angle
+Rep 1: Knee Angle 158.0° | Ankle Distance 120.2px
+Feedback: Good knee angle
+Rep 1: Knee Angle 155.3° | Ankle Distance 122.9px
+Feedback: Good knee angle
+Rep 1: Knee Angle 155.3° | Ankle Distance 122.9px
+Feedback: Good knee angle
+Rep 1: Knee Angle 155.3° | Ankle Distance 122.9px
+Feedback: Good knee angle
+Rep 1: Knee Angle 140.2° | Ankle Distance 125.9px
+Feedback: Good knee angle
+Rep 1: Knee Angle 140.2° | Ankle Distance 125.9px
+Feedback: Good knee angle
+Rep 1: Knee Angle 140.2° | Ankle Distance 125.9px
+Feedback: Good knee angle
+Rep 1: Knee Angle 140.2° | Ankle Distance 125.9px
+Feedback: Good knee angle
+Rep 1: Knee Angle 136.3° | Ankle Distance 148.1px
+Feedback: Good knee angle
+Rep 1: Knee Angle 144.1° | Ankle Distance 179.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 144.1° | Ankle Distance 179.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 144.1° | Ankle Distance 179.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 163.0° | Ankle Distance 222.9px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 163.0° | Ankle Distance 222.9px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 163.0° | Ankle Distance 222.9px
+Feedback: Straighten your back leg more
+Rep 1: Knee Angle 151.9° | Ankle Distance 211.1px
+Feedback: Good knee angle
+Rep 1: Knee Angle 151.9° | Ankle Distance 211.1px
+Feedback: Good knee angle
+Rep 1: Knee Angle 136.9° | Ankle Distance 206.5px
+Feedback: Good knee angle
+Rep 1: Knee Angle 136.9° | Ankle Distance 206.5px
+Feedback: Good knee angle
+Rep 1: Knee Angle 136.9° | Ankle Distance 206.5px
+Feedback: Good knee angle
+Rep 1: Knee Angle 122.2° | Ankle Distance 216.0px
+Feedback: Good knee angle
+Rep 1: Knee Angle 99.3° | Ankle Distance 211.7px
+Feedback: Good lunge position
+Rep 1: Knee Angle 99.3° | Ankle Distance 211.7px
+Feedback: Good knee angle
+Rep 1: Knee Angle 88.2° | Ankle Distance 206.3px
+Feedback: Good knee angle
+Rep 1: Knee Angle 88.2° | Ankle Distance 206.3px
+Feedback: Good knee angle
+Rep 1: Knee Angle 88.2° | Ankle Distance 206.3px
+Feedback: Good knee angle
+Rep 1: Knee Angle 90.8° | Ankle Distance 208.6px
+Feedback: Good knee angle
+Rep 1: Knee Angle 90.6° | Ankle Distance 212.1px
+Feedback: Good knee angle
+Rep 1: Knee Angle 90.6° | Ankle Distance 212.1px
+Feedback: Good knee angle
+Rep 1: Knee Angle 90.6° | Ankle Distance 212.1px
+Feedback: Good knee angle
+Rep 2: Knee Angle 161.3° | Ankle Distance 216.1px
+Feedback: Lunge completed! Total: 2
+Rep 2: Knee Angle 161.3° | Ankle Distance 216.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 161.3° | Ankle Distance 216.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 151.1° | Ankle Distance 160.3px
+Feedback: Good knee angle
+Rep 2: Knee Angle 139.3° | Ankle Distance 138.5px
+Feedback: Good knee angle
+Rep 2: Knee Angle 139.3° | Ankle Distance 138.5px
+Feedback: Good knee angle
+Rep 2: Knee Angle 139.3° | Ankle Distance 138.5px
+Feedback: Good knee angle
+Rep 2: Knee Angle 141.3° | Ankle Distance 126.4px
+Feedback: Good knee angle
+Rep 2: Knee Angle 141.3° | Ankle Distance 126.4px
+Feedback: Good knee angle
+Rep 2: Knee Angle 157.7° | Ankle Distance 123.0px
+Feedback: Good knee angle
+Rep 2: Knee Angle 169.9° | Ankle Distance 122.3px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 169.9° | Ankle Distance 122.3px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 169.9° | Ankle Distance 122.3px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 171.4° | Ankle Distance 120.6px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 167.9° | Ankle Distance 120.3px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 167.9° | Ankle Distance 120.3px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 175.0° | Ankle Distance 119.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 175.0° | Ankle Distance 119.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 175.0° | Ankle Distance 119.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 177.4° | Ankle Distance 116.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 177.8° | Ankle Distance 117.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 177.8° | Ankle Distance 117.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 177.8° | Ankle Distance 117.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 171.0° | Ankle Distance 118.0px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 171.0° | Ankle Distance 118.0px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 171.0° | Ankle Distance 118.0px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 171.0° | Ankle Distance 118.0px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 171.7° | Ankle Distance 112.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 174.0° | Ankle Distance 110.0px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 174.0° | Ankle Distance 110.0px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 174.0° | Ankle Distance 110.0px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 177.4° | Ankle Distance 108.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 175.6° | Ankle Distance 132.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 175.6° | Ankle Distance 132.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 175.6° | Ankle Distance 132.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 176.1° | Ankle Distance 168.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 176.1° | Ankle Distance 168.1px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 177.0° | Ankle Distance 172.4px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 177.0° | Ankle Distance 172.4px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 177.0° | Ankle Distance 172.4px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 165.5° | Ankle Distance 174.3px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 153.3° | Ankle Distance 174.9px
+Feedback: Good knee angle
+Rep 2: Knee Angle 153.3° | Ankle Distance 174.9px
+Feedback: Good knee angle
+Rep 2: Knee Angle 153.3° | Ankle Distance 174.9px
+Feedback: Good knee angle
+Rep 2: Knee Angle 141.8° | Ankle Distance 179.7px
+Feedback: Good knee angle
+Rep 2: Knee Angle 131.4° | Ankle Distance 201.8px
+Feedback: Good knee angle
+Rep 2: Knee Angle 131.4° | Ankle Distance 201.8px
+Feedback: Good knee angle
+Rep 2: Knee Angle 131.4° | Ankle Distance 201.8px
+Feedback: Good knee angle
+Rep 2: Knee Angle 145.7° | Ankle Distance 231.7px
+Feedback: Good knee angle
+Rep 2: Knee Angle 145.7° | Ankle Distance 231.7px
+Feedback: Good knee angle
+Rep 2: Knee Angle 163.1° | Ankle Distance 262.5px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 158.6° | Ankle Distance 271.2px
+Feedback: Good knee angle
+Rep 2: Knee Angle 158.6° | Ankle Distance 271.2px
+Feedback: Good knee angle
+Rep 2: Knee Angle 158.6° | Ankle Distance 271.2px
+Feedback: Good knee angle
+Rep 2: Knee Angle 134.5° | Ankle Distance 260.9px
+Feedback: Good knee angle
+Rep 2: Knee Angle 161.0° | Ankle Distance 272.5px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 161.0° | Ankle Distance 272.5px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 161.0° | Ankle Distance 272.5px
+Feedback: Straighten your back leg more
+Rep 2: Knee Angle 101.4° | Ankle Distance 279.0px
+Feedback: Good lunge position
+Rep 2: Knee Angle 101.4° | Ankle Distance 279.0px
+Feedback: Good knee angle
+Rep 2: Knee Angle 101.4° | Ankle Distance 279.0px
+Feedback: Good knee angle
+Rep 2: Knee Angle 85.8° | Ankle Distance 296.7px
+Feedback: Good knee angle
+Rep 2: Knee Angle 85.2° | Ankle Distance 3.6px
+Feedback: Good knee angle | Widen your stance
+Rep 2: Knee Angle 85.2° | Ankle Distance 3.6px
+Feedback: Good knee angle | Widen your stance
+Rep 2: Knee Angle 134.4° | Ankle Distance 283.3px
+Feedback: Good knee angle
+Rep 2: Knee Angle 134.4° | Ankle Distance 283.3px
+Feedback: Good knee angle
+Rep 2: Knee Angle 134.4° | Ankle Distance 283.3px
+Feedback: Good knee angle
+Rep 2: Knee Angle 137.1° | Ankle Distance 263.8px
+Feedback: Good knee angle
+Rep 2: Knee Angle 72.7° | Ankle Distance 1.0px
+Feedback: Bend your front knee less | Widen your stance
+Rep 2: Knee Angle 72.7° | Ankle Distance 1.0px
+Feedback: Bend your front knee less | Widen your stance
+Rep 2: Knee Angle 142.5° | Ankle Distance 261.6px
+Feedback: Good knee angle
+Rep 2: Knee Angle 87.5° | Ankle Distance 282.5px
+Feedback: Good knee angle
+Rep 2: Knee Angle 87.5° | Ankle Distance 282.5px
+Feedback: Good knee angle
+Rep 2: Knee Angle 87.5° | Ankle Distance 282.5px
+Feedback: Good knee angle
+Rep 2: Knee Angle 92.2° | Ankle Distance 277.7px
+Feedback: Good knee angle
+Rep 2: Knee Angle 92.2° | Ankle Distance 277.7px
+Feedback: Good knee angle
+Rep 3: Knee Angle 156.8° | Ankle Distance 270.3px
+Feedback: Lunge completed! Total: 3
+Rep 3: Knee Angle 156.8° | Ankle Distance 270.3px
+Feedback: Good knee angle
+Rep 3: Knee Angle 156.8° | Ankle Distance 270.3px
+Feedback: Good knee angle
+Rep 3: Knee Angle 166.5° | Ankle Distance 288.2px
+Feedback: Straighten your back leg more
+Rep 3: Knee Angle 134.1° | Ankle Distance 271.1px
+Feedback: Good knee angle
+Rep 3: Knee Angle 134.1° | Ankle Distance 271.1px
+Feedback: Good knee angle
+Rep 3: Knee Angle 134.1° | Ankle Distance 271.1px
+Feedback: Good knee angle
+Rep 3: Knee Angle 152.3° | Ankle Distance 276.9px
+Feedback: Good knee angle
+Rep 3: Knee Angle 152.3° | Ankle Distance 276.9px
+Feedback: Good knee angle
+Rep 3: Knee Angle 159.6° | Ankle Distance 267.5px
+Feedback: Good knee angle
+Rep 3: Knee Angle 168.7° | Ankle Distance 259.9px
+Feedback: Straighten your back leg more
+Rep 3: Knee Angle 168.7° | Ankle Distance 259.9px
+Feedback: Straighten your back leg more
+Rep 3: Knee Angle 168.7° | Ankle Distance 259.9px
+Feedback: Straighten your back leg more
+Rep 3: Knee Angle 174.6° | Ankle Distance 256.9px
+Feedback: Straighten your back leg more
+Rep 3: Knee Angle 174.1° | Ankle Distance 255.9px
+Feedback: Straighten your back leg more
+Rep 3: Knee Angle 174.1° | Ankle Distance 255.9px
+Feedback: Straighten your back leg more
+Rep 3: Knee Angle 174.1° | Ankle Distance 255.9px
+Feedback: Straighten your back leg more
+Rep 3: Knee Angle 165.1° | Ankle Distance 261.9px
+Feedback: Straighten your back leg more
+Rep 3: Knee Angle 165.1° | Ankle Distance 261.9px
+Feedback: Straighten your back leg more
+Rep 3: Knee Angle 155.8° | Ankle Distance 270.6px
+Feedback: Good knee angle
+Rep 3: Knee Angle 155.8° | Ankle Distance 270.6px
+Feedback: Good knee angle
+Rep 3: Knee Angle 155.8° | Ankle Distance 270.6px
+Feedback: Good knee angle
+Rep 3: Knee Angle 149.9° | Ankle Distance 277.9px
+Feedback: Good knee angle
+Rep 3: Knee Angle 149.9° | Ankle Distance 277.9px
+Feedback: Good knee angle
+Rep 3: Knee Angle 149.9° | Ankle Distance 277.9px
+Feedback: Good knee angle
+Rep 3: Knee Angle 149.9° | Ankle Distance 277.9px
+Feedback: Good knee angle
+Rep 3: Knee Angle 131.7° | Ankle Distance 270.3px
+Feedback: Good knee angle
+Rep 3: Knee Angle 104.9° | Ankle Distance 261.8px
+Feedback: Good lunge position
+Rep 3: Knee Angle 98.9° | Ankle Distance 272.9px
+Feedback: Good knee angle
+Rep 3: Knee Angle 98.9° | Ankle Distance 272.9px
+Feedback: Good knee angle
+Rep 3: Knee Angle 98.9° | Ankle Distance 272.9px
+Feedback: Good knee angle
+Rep 3: Knee Angle 84.5° | Ankle Distance 2.8px
+Feedback: Good knee angle | Widen your stance
+Rep 3: Knee Angle 84.5° | Ankle Distance 2.8px
+Feedback: Good knee angle | Widen your stance
+Rep 3: Knee Angle 84.5° | Ankle Distance 2.8px
+Feedback: Good knee angle | Widen your stance
+Rep 3: Knee Angle 82.0° | Ankle Distance 2.0px
+Feedback: Good knee angle | Widen your stance
+Rep 3: Knee Angle 82.0° | Ankle Distance 2.0px
+Feedback: Good knee angle | Widen your stance
+Rep 3: Knee Angle 93.4° | Ankle Distance 263.1px
+Feedback: Good knee angle
+Rep 3: Knee Angle 102.2° | Ankle Distance 270.3px
+Feedback: Good knee angle
+Rep 3: Knee Angle 102.2° | Ankle Distance 270.3px
+Feedback: Good knee angle
+Rep 3: Knee Angle 102.2° | Ankle Distance 270.3px
+Feedback: Good knee angle
+Rep 3: Knee Angle 102.2° | Ankle Distance 270.3px
+Feedback: Good knee angle
+Rep 3: Knee Angle 107.3° | Ankle Distance 261.7px
+Feedback: Good knee angle
+Rep 3: Knee Angle 123.4° | Ankle Distance 265.8px
+Feedback: Good knee angle
+Rep 3: Knee Angle 123.4° | Ankle Distance 265.8px
+Feedback: Good knee angle
+Rep 3: Knee Angle 123.4° | Ankle Distance 265.8px
+Feedback: Good knee angle
+Rep 3: Knee Angle 134.9° | Ankle Distance 264.6px
+Feedback: Good knee angle
+Rep 4: Knee Angle 152.9° | Ankle Distance 273.5px
+Feedback: Lunge completed! Total: 4
+Rep 4: Knee Angle 152.9° | Ankle Distance 273.5px
+Feedback: Good knee angle
+Rep 4: Knee Angle 152.9° | Ankle Distance 273.5px
+Feedback: Good knee angle
+Rep 4: Knee Angle 163.7° | Ankle Distance 261.6px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 174.5° | Ankle Distance 258.9px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 174.5° | Ankle Distance 258.9px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 174.5° | Ankle Distance 258.9px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 179.1° | Ankle Distance 247.7px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 179.1° | Ankle Distance 247.7px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 178.6° | Ankle Distance 252.8px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 178.6° | Ankle Distance 252.8px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 178.6° | Ankle Distance 252.8px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 179.2° | Ankle Distance 253.6px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 179.2° | Ankle Distance 253.6px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 179.2° | Ankle Distance 253.6px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 179.2° | Ankle Distance 253.6px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 170.7° | Ankle Distance 260.7px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 161.1° | Ankle Distance 267.6px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 161.1° | Ankle Distance 267.6px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 161.1° | Ankle Distance 267.6px
+Feedback: Straighten your back leg more
+Rep 4: Knee Angle 150.2° | Ankle Distance 275.7px
+Feedback: Good knee angle
+Rep 4: Knee Angle 137.5° | Ankle Distance 272.1px
+Feedback: Good knee angle
+Rep 4: Knee Angle 137.5° | Ankle Distance 272.1px
+Feedback: Good knee angle
+Rep 4: Knee Angle 137.5° | Ankle Distance 272.1px
+Feedback: Good knee angle
+Rep 4: Knee Angle 124.8° | Ankle Distance 274.6px
+Feedback: Good knee angle
+Rep 4: Knee Angle 124.8° | Ankle Distance 274.6px
+Feedback: Good knee angle
+Rep 4: Knee Angle 105.8° | Ankle Distance 262.3px
+Feedback: Good lunge position
+Rep 4: Knee Angle 101.3° | Ankle Distance 265.2px
+Feedback: Good knee angle
+Rep 4: Knee Angle 101.3° | Ankle Distance 265.2px
+Feedback: Good knee angle
+Rep 4: Knee Angle 101.3° | Ankle Distance 265.2px
+Feedback: Good knee angle
+Rep 4: Knee Angle 94.7° | Ankle Distance 258.8px
+Feedback: Good knee angle
+Rep 4: Knee Angle 98.8° | Ankle Distance 273.4px
+Feedback: Good knee angle
+Rep 4: Knee Angle 98.8° | Ankle Distance 273.4px
+Feedback: Good knee angle
+Rep 4: Knee Angle 98.8° | Ankle Distance 273.4px
+Feedback: Good knee angle
+Rep 4: Knee Angle 98.8° | Ankle Distance 273.4px
+Feedback: Good knee angle
+Rep 4: Knee Angle 106.1° | Ankle Distance 264.8px
+Feedback: Good knee angle
+Rep 5: Knee Angle 157.4° | Ankle Distance 292.4px
+Feedback: Lunge completed! Total: 5
+Rep 5: Knee Angle 170.7° | Ankle Distance 267.9px
+Feedback: Straighten your back leg more
+Rep 5: Knee Angle 170.7° | Ankle Distance 267.9px
+Feedback: Straighten your back leg more
+Rep 5: Knee Angle 170.7° | Ankle Distance 267.9px
+Feedback: Straighten your back leg more
+Rep 5: Knee Angle 159.6° | Ankle Distance 147.4px
+Feedback: Good knee angle
+Rep 5: Knee Angle 159.6° | Ankle Distance 147.4px
+Feedback: Good knee angle
+Rep 5: Knee Angle 159.6° | Ankle Distance 147.4px
+Feedback: Good knee angle
+Rep 5: Knee Angle 169.8° | Ankle Distance 110.2px
+Feedback: Straighten your back leg more
+Rep 5: Knee Angle 169.8° | Ankle Distance 110.2px
+Feedback: Straighten your back leg more
+Rep 5: Knee Angle 179.4° | Ankle Distance 132.0px
+Feedback: Straighten your back leg more
+Rep 5: Knee Angle 170.0° | Ankle Distance 152.1px
+Feedback: Straighten your back leg more
+Rep 5: Knee Angle 170.0° | Ankle Distance 152.1px
+Feedback: Straighten your back leg more
+Rep 5: Knee Angle 170.0° | Ankle Distance 152.1px
+Feedback: Straighten your back leg more
