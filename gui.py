@@ -1,34 +1,85 @@
 import tkinter as tk
 import subprocess
-from tkinter import PhotoImage
 from PIL import Image, ImageTk
 
 def run_model(script_name):
-    root.withdraw()  # Hide the main window while the model runs
+    root.withdraw()
     try:
-        subprocess.run(['python', script_name])  # Run the selected script
+        subprocess.run(['python', script_name])
     except Exception as e:
         print(f"Error running {script_name}: {e}")
-    root.deiconify()  # Show the main window again when the script finishes
+    root.deiconify()
 
+def exit_fullscreen(event=None):
+    root.attributes('-fullscreen', False)
+
+def resize(event=None):
+    """ Redraws everything smoothly when the window resizes """
+    global screen_width, screen_height, cached_icon_size, cached_font_size
+
+    screen_width, screen_height = root.winfo_width(), root.winfo_height()
+
+    # Clear old gradient and redraw
+    gradient_canvas.delete("all")
+    for i in range(screen_height):
+        color = f"#{max(0, min(255, 255 - (i // 3))):02x}{max(0, min(255, 100 + (i // 6))):02x}{max(0, min(255, 50 + (i // 2))):02x}"
+        gradient_canvas.create_line(0, i, screen_width, i, fill=color)
+
+    # Reposition title text
+    title_font_size = max(20, int(screen_width * 0.04))
+    gradient_canvas.create_text(screen_width // 2, int(screen_height * 0.1),
+                                text="Exercise Feedback", font=("Brush Script MT", title_font_size, "bold"),
+                                fill="black", tags="title")
+
+    # Resize images dynamically
+    new_icon_size = max(30, int(screen_width * 0.05))
+    new_font_size = max(12, int(screen_width * 0.02))
+    
+    if new_icon_size != cached_icon_size or new_font_size != cached_font_size:
+        cached_icon_size = new_icon_size
+        cached_font_size = new_font_size
+        
+        for exercise, file in image_files.items():
+            img = Image.open(file)
+            img = img.resize((cached_icon_size, cached_icon_size), Image.Resampling.LANCZOS)
+            icons[exercise] = ImageTk.PhotoImage(img)
+
+    # Adjust button sizes and positions
+    button_width = int(screen_width * 0.25)
+    button_height = int(screen_height * 0.08)
+    
+    positions = [
+        (screen_width * 0.3, screen_height * 0.3),
+        (screen_width * 0.3, screen_height * 0.5),
+        (screen_width * 0.3, screen_height * 0.7),
+        (screen_width * 0.7, screen_height * 0.3),
+        (screen_width * 0.7, screen_height * 0.5),
+        (screen_width * 0.7, screen_height * 0.7),
+    ]
+
+    for i, (exercise, button) in enumerate(buttons.items()):
+        x, y = positions[i]
+        button.config(width=button_width, height=button_height, font=("Arial", cached_font_size, "bold"),
+                      padx=10, pady=5, image=icons[exercise], compound="left")
+        button.place(x=x, y=y, anchor="center")
+
+    exit_button.config(width=button_width, height=button_height, font=("Arial", cached_font_size, "bold"),
+                       image=icons["Exit"], compound="left")
+    exit_button.place(x=screen_width // 2, y=screen_height * 0.9, anchor="center")
+
+# Initialize Tkinter window
 root = tk.Tk()
 root.title("Exercise Feedback System")
-root.geometry("500x550")
+root.attributes('-fullscreen', True)
 
-# Create a smooth vertical gradient background
-gradient_canvas = tk.Canvas(root, width=500, height=550, highlightthickness=0)
+# Get screen dimensions
+screen_width, screen_height = root.winfo_screenwidth(), root.winfo_screenheight()
+
+# Canvas for background gradient
+gradient_canvas = tk.Canvas(root, width=screen_width, height=screen_height, highlightthickness=0)
 gradient_canvas.pack(fill="both", expand=True)
-for i in range(550):
-    red = max(0, min(255, 255 - (i // 3)))
-    green = max(0, min(255, 100 + (i // 6)))
-    blue = max(0, min(255, 50 + (i // 2)))
-    color = f"#{red:02x}{green:02x}{blue:02x}"
-    gradient_canvas.create_line(0, i, 500, i, fill=color)
 
-# Add title label with transparent background
-gradient_canvas.create_text(250, 40, text="Exercise Feedback", font=("Brush Script MT", 28, "bold"), fill="black")
-
-# Load and resize images
+# Load images
 image_files = {
     "Bicep Curls": "images/bicep_curls.png",
     "Posture": "images/posture.png",
@@ -40,37 +91,49 @@ image_files = {
 }
 
 icons = {}
-for exercise, file in image_files.items():
-    img = Image.open(file)
-    img = img.resize((30, 30), Image.Resampling.LANCZOS)
-    icons[exercise] = ImageTk.PhotoImage(img)
 
-# Buttons for different exercises with images
+# Initialize buttons
 exercises = {
-    "Bicep Curls": "bicep_curls.py",
+    "Bicep Curls": "BicepCurls.py",
     "Posture": "posture.py",
-    "Squats": "squats.py",
-    "Wrist Rotation": "wrist_rotation.py",
+    "Squats": "Squat.py",
+    "Wrist Rotation": "WristRotation.py",
     "Lunges": "lunges.py",
     "Jumping Jacks": "jumping_jacks.py"
 }
 
 button_colors = ["#ff9999", "#99ff99", "#9999ff", "#ffcc99", "#66ccff", "#ff66b2"]
+buttons = {}
 
-# Adjusted positions with spacing
-positions = [(130, 150), (130, 250), (130, 350), (370, 150), (370, 250), (370, 350)]
+# Create buttons
+for index, (exercise, script) in enumerate(exercises.items()):
+    img = Image.open(image_files[exercise])
+    img = img.resize((50, 50), Image.Resampling.LANCZOS)
+    icons[exercise] = ImageTk.PhotoImage(img)
 
-for index, ((exercise, script), (x, y)) in enumerate(zip(exercises.items(), positions)):
-    button = tk.Button(
-        root, text=exercise, command=lambda s=script: run_model(s), 
-        image=icons[exercise], compound="left", padx=10,
-        bg=button_colors[index], font=("Arial", 12, "bold"), width=200
-    )
-    gradient_canvas.create_window(x, y, window=button)
+    btn = tk.Button(root, text=exercise, command=lambda s=script: run_model(s), 
+                    image=icons[exercise], compound="left", padx=20, pady=10,
+                    bg=button_colors[index], font=("Arial", 16, "bold"), width=20)
+    buttons[exercise] = btn
 
-# Exit button (centered at the bottom)
+# Exit button
+exit_img = Image.open(image_files["Exit"])
+exit_img = exit_img.resize((50, 50), Image.Resampling.LANCZOS)
+icons["Exit"] = ImageTk.PhotoImage(exit_img)
+
 exit_button = tk.Button(root, text="Exit", command=root.quit, image=icons["Exit"], compound="left", 
-                        padx=10, bg="red", fg="white", font=("Arial", 12, "bold"))
-gradient_canvas.create_window(250, 500, window=exit_button)
+                        padx=20, pady=10, bg="red", fg="white", font=("Arial", 16, "bold"), width=20)
+
+# Cache previous values
+cached_icon_size = -1
+cached_font_size = -1
+
+# Bind resize event
+root.bind("<Configure>", resize)
+root.bind("<Escape>", exit_fullscreen)
+
+# Call resize to set initial layout
+root.update_idletasks()
+resize()
 
 root.mainloop()

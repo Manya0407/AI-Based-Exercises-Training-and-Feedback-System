@@ -3,6 +3,7 @@ import numpy as np
 import tensorflow as tf
 import tensorflow_hub as hub
 import time
+import os
 
 # Load MoveNet model
 model = hub.load("https://tfhub.dev/google/movenet/singlepose/lightning/4")
@@ -149,10 +150,16 @@ Right Arm Feedback: {right_arm_counter.feedback}
 Left Arm Feedback: {left_arm_counter.feedback}
 """
 
-with open("workout_summary.txt", "w") as file:
+save_dir = "Records"
+file_path = os.path.join(save_dir, "bicepcurls.txt")
+# Create the directory if it doesn't exist
+os.makedirs(save_dir, exist_ok=True)
+# Save the summary
+with open(file_path, "w") as file:
     file.write(summary_text)
 
 print(summary_text)
+print(f"Workout summary saved at: {os.path.abspath(file_path)}")
 
 cap.release()
 cv2.destroyAllWindows()

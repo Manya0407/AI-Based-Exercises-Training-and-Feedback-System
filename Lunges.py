@@ -3,6 +3,7 @@ import numpy as np
 import tensorflow as tf
 import tensorflow_hub as hub
 import time
+import os
 
 # Load MoveNet model
 model = hub.load("https://tfhub.dev/google/movenet/singlepose/lightning/4")
@@ -136,7 +137,16 @@ class LungeTracker:
         self.feedback = "Counter reset. Ready to start!"
 
     def save_summary(self, duration):
-        with open("lunge_summary.txt", "w") as f:
+
+        # Define save directory and file path
+        save_dir = "Records"
+        file_path = os.path.join(save_dir, "lunges.txt")
+
+        # Create directory if it doesn't exist
+        os.makedirs(save_dir, exist_ok=True)
+
+        # Save summary
+        with open(file_path, "w") as f:
             f.write(f"Lunge Workout Summary ({self.lunge_leg} leg)\n")
             f.write(f"Duration: {duration:.1f} seconds\n")
             f.write(f"Total Lunges: {self.count} reps\n\n")

@@ -3,6 +3,7 @@ import numpy as np
 import tensorflow as tf
 import tensorflow_hub as hub
 import time
+import os
 
 # Load MoveNet model
 model = hub.load("https://tfhub.dev/google/movenet/singlepose/lightning/4")
@@ -105,7 +106,15 @@ class JumpingJacksTracker:
         return arm_angle, leg_distance
 
     def save_summary(self, duration):
-        with open("jumping_jacks_summary.txt", "w") as f:
+        # Define save directory and file path
+        save_dir = "Records"
+        file_path = os.path.join(save_dir, "jumpingjacks.txt")
+
+        # Create directory if it doesn't exist
+        os.makedirs(save_dir, exist_ok=True)
+
+        # Save summary in the specified path
+        with open(file_path, "w") as f:
             f.write(f"Jumping Jacks Summary\n")
             f.write(f"Duration: {duration:.1f} seconds\n")
             f.write(f"Total Reps: {self.count}\n\n")

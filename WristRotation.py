@@ -338,10 +338,18 @@ except KeyboardInterrupt:
 finally:
     # Ensure resources are properly released
     elapsed_time = time.time() - start_time
+
+    # Ensure the "Records" folder exists
+    records_folder = "Records"
+    if not os.path.exists(records_folder):
+        os.makedirs(records_folder)
+    
+    # Generate a summary text file inside "Records" folder
+    summary_path = os.path.join(records_folder, "wrist_rotation.txt")
     
     # Generate a summary text file
     try:
-        with open("wrist_rotation_summary.txt", "w") as f:
+        with open(summary_path, "w") as f:
             f.write("Wrist Rotation Summary\n")
             f.write("=====================\n")
             f.write(f"Date: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
@@ -352,7 +360,7 @@ finally:
             f.write("Left Wrist:\n")
             f.write(f"  Clockwise Rotations: {left_wrist_tracker.clockwise_count}\n")
             f.write(f"  Anticlockwise Rotations: {left_wrist_tracker.anticlockwise_count}\n")
-        print(f"Summary saved to wrist_rotation_summary.txt")
+        print(f"Summary saved to {summary_path}")
     except Exception as e:
         print(f"Error saving summary: {e}")
     
