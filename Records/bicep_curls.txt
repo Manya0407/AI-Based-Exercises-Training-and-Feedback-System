@@ -1,0 +1,40 @@
+
+==================================================
+Session: 2025-04-03 11:01:47
+==================================================
+
+Bicep Curls Exercise Summary
+---------------------------
+Date: 2025-04-03 11:01:47
+Duration: 1.3 seconds
+Left Arm Curls: 0
+Right Arm Curls: 0
+Left Elbow Angle Range: 0.0°
+Right Elbow Angle Range: 0.0°
+
+Form Feedback:
+-------------
+
+
+==================================================
+Session: 2025-04-02 23:33:36
+==================================================
+
+Bicep Curls Exercise Summary
+---------------------------
+Date: 2025-04-02 23:33:36
+Duration: 30.6 seconds
+Left Arm Curls: 4
+Right Arm Curls: 2
+Left Elbow Angle Range: 125.7°
+Right Elbow Angle Range: 159.1°
+
+Form Feedback:
+-------------
+- Good form!
+- Straighten your right arm completely
+- Straighten your left arm completely
+- Lift your left arm higher
+- Lift your right arm higher
+- Keep both arms at the same height
+

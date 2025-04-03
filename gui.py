@@ -1,14 +1,58 @@
 import tkinter as tk
 import subprocess
 from PIL import Image, ImageTk
+import importlib.util
+import sys
+from model_handler import load_model
+import traceback
 
 def run_model(script_name):
     root.withdraw()
     try:
-        subprocess.run(['python', script_name])
+        # Ensure model is loaded before running any exercise
+        if not load_model():
+            print("Failed to load model. Please check your internet connection and try again.")
+            root.deiconify()
+            return
+            
+        # Import the exercise module dynamically
+        spec = importlib.util.spec_from_file_location(script_name[:-3], script_name)
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        
+        # Get the function name by removing .py and converting to lowercase
+        base_name = script_name[:-3].lower()
+        
+        # Define possible function names based on the script
+        if script_name == "Lunges.py":
+            possible_functions = ["run_lunges"]
+        elif script_name == "WristRotation.py":
+            possible_functions = ["run_wrist_rotation"]
+        elif script_name == "BicepCurls.py":
+            possible_functions = ["run_bicep_curls"]
+        else:
+            possible_functions = [
+                f"run_{base_name}",
+                f"run_{base_name.replace('_', '')}",
+                base_name
+            ]
+        
+        # Try each possible function name
+        for function_name in possible_functions:
+            if hasattr(module, function_name):
+                result = getattr(module, function_name)()
+                if result is False:  # If the function explicitly returns False
+                    root.quit()  # Quit the entire application
+                return
+        
+        print(f"Error: Could not find any of the following functions in {script_name}:")
+        for function_name in possible_functions:
+            print(f"  - {function_name}")
     except Exception as e:
         print(f"Error running {script_name}: {e}")
-    root.deiconify()
+        print(traceback.format_exc())  # Add this line to see the full error trace
+    finally:
+        root.deiconify()  # Always show the GUI again
 
 def exit_fullscreen(event=None):
     root.attributes('-fullscreen', False)
@@ -98,8 +142,8 @@ exercises = {
     "Posture": "posture.py",
     "Squats": "Squat.py",
     "Wrist Rotation": "WristRotation.py",
-    "Lunges": "lunges.py",
-    "Jumping Jacks": "jumping_jacks.py"
+    "Lunges": "Lunges.py",
+    "Jumping Jacks": "JumpingJacks.py"
 }
 
 button_colors = ["#ff9999", "#99ff99", "#9999ff", "#ffcc99", "#66ccff", "#ff66b2"]
@@ -135,5 +179,9 @@ root.bind("<Escape>", exit_fullscreen)
 # Call resize to set initial layout
 root.update_idletasks()
 resize()
+
+# Load model at startup
+if not load_model():
+    print("Warning: Failed to load model at startup. Some features may not work properly.")
 
 root.mainloop()

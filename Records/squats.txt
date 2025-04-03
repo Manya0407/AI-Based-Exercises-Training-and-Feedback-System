@@ -1,0 +1,45 @@
+
+==================================================
+Session: 2025-04-03 10:59:18
+==================================================
+
+Squat Exercise Summary
+---------------------
+Date: 2025-04-03 10:59:18
+Duration: 1.4 seconds
+Total Squats: 0
+Left Knee Angle Range: 0.0°
+Right Knee Angle Range: 0.0°
+Left Hip Angle Range: 0.0°
+Right Hip Angle Range: 0.0°
+
+Form Feedback:
+-------------
+
+
+==================================================
+Session: 2025-04-02 23:39:38
+==================================================
+
+Squat Exercise Summary
+---------------------
+Date: 2025-04-02 23:39:38
+Duration: 32.4 seconds
+Total Squats: 1
+Left Knee Angle Range: 173.8°
+Right Knee Angle Range: 169.1°
+Left Hip Angle Range: 83.2°
+Right Hip Angle Range: 86.0°
+
+Form Feedback:
+-------------
+- Stand up straight to start
+- Keep both knees at the same angle
+- Go lower for a full squat
+- Good form!
+
+Squat Exercise Summary
+====================
+Date: 2025-04-02 23:12:54
+Duration: 17.1 seconds
+Total Squats: 0

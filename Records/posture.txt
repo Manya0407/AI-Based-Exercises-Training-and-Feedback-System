@@ -1,0 +1,6 @@
+Posture Analysis Summary
+====================
+Date: 2025-04-03 10:59:08
+Duration: 1.8 seconds
+Time with Good Posture: 5.1 seconds
+Percentage of Good Posture: 90.0%

@@ -1,0 +1,69 @@
+
+==================================================
+Session: 2025-04-03 10:59:04
+==================================================
+
+Wrist Rotation Exercise Summary
+------------------------------
+Date: 2025-04-03 10:59:04
+Duration: 2.7 seconds
+Right Wrist Clockwise: 0
+Right Wrist Anticlockwise: 0
+Left Wrist Clockwise: 0
+Left Wrist Anticlockwise: 0
+
+Form Feedback:
+-------------
+Right Wrist: Keep your Right wrist visible
+Left Wrist: 
+
+
+==================================================
+Session: 2025-04-03 00:46:40
+==================================================
+
+Wrist Rotation Exercise Summary
+------------------------------
+Date: 2025-04-03 00:46:40
+Duration: 66.2 seconds
+Right Wrist Clockwise: 0
+Right Wrist Anticlockwise: 0
+Left Wrist Clockwise: 0
+Left Wrist Anticlockwise: 0
+
+Form Feedback:
+-------------
+Right Wrist: Keep your Right wrist visible
+Left Wrist: Keep your Left wrist visible
+
+
+==================================================
+Session: 2025-04-03 00:24:39
+==================================================
+
+Wrist Rotation Exercise Summary
+------------------------------
+Date: 2025-04-03 00:24:39
+Duration: 20.9 seconds
+Right Wrist Clockwise: 0
+Right Wrist Anticlockwise: 0
+Left Wrist Clockwise: 0
+Left Wrist Anticlockwise: 0
+
+Form Feedback:
+-------------
+Right Wrist: Start rotating your Right wrist
+Left Wrist: Left wrist rotating clockwise (0%)
+
+Wrist Rotation Summary
+=====================
+Date: 2025-04-03 00:04:54
+Duration: 42.9 seconds
+
+Right Wrist:
+  Clockwise Rotations: 18
+  Anticlockwise Rotations: 17
+
+Left Wrist:
+  Clockwise Rotations: 42
+  Anticlockwise Rotations: 44
