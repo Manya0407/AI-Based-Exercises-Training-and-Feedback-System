@@ -34,7 +34,7 @@ A real-time exercise monitoring and feedback system that uses computer vision an
 ## Screenshots
 
 ### Main Interface
-![Main Interface](images/main_interface.png)
+![Main Interface](https://github.com/Manya0407/AI-Based-Exercises-Training-and-Feedback-System/blob/main/GUI%20Interface.png?raw=true)
 *The main exercise selection screen with all available exercises*
 
 ## Requirements
